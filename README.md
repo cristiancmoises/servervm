@@ -1,7 +1,7 @@
 # ServerVM
 Graphical Interface for Servers
        
-    apt install novnc x11vnc tigervnc-standalone-server xterm terminator dbus-x11 python-py python3-pip xfce4 xorg -y
+    apt install novnc psmisc x11vnc tigervnc-standalone-server xterm terminator dbus-x11 python-py python3-pip xfce4 xorg -y
        
 # StartVnc Server
      
