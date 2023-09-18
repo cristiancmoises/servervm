@@ -18,7 +18,7 @@ Graphical Interface for Servers
 
 # Access Your Server:
 
-     SERVERIP:8080/vnc.html
+     http://SERVERIP:8080/vnc.html
   
 # Kill the connection:
     fuser -k 8080/tcp
