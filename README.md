@@ -1,4 +1,6 @@
 # ServerVM
+[![DOI](https://zenodo.org/badge/692922794.svg)](https://doi.org/10.5281/zenodo.14810100)
+
 Graphical Interface for Servers
        
     apt install novnc psmisc x11vnc tigervnc-standalone-server xterm terminator wget dbus-x11 python-py python3-pip xfce4 xorg -y
